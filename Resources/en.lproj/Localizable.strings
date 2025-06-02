@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RnMCharacter_Encyclopedia
+
+  Created by Noel Hiram Pat Angulo on 6/2/25.
+  
+*/
+
+"try_again" = "Try again";
+"error_no_internet" = "No internet connection";
+"error_unauthorized" = "Unauthorized";
+"error_not_found" = "Not found";
+"error_bad_request" = "Bad request";
+"error_server" = "Server error: %@";
+"error_unhandled" = "Unhandled error: %@";
+"characters_title" = "Characters";
+"loading" = "Loading...";
+"character_detail_status" = "Status";
+"character_detail_species" = "Species";
+"character_detail_gender" = "Gender";
+"character_detail_origin" = "Origin";
+"character_detail_location" = "Location";
